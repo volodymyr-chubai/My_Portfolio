@@ -9,7 +9,7 @@ On this page you can find some examples of my projects. Have fun in browsing thr
 
 ---
 
-## 🥇 Project 1: [IBM Data Capstone Project](https://github.com/volodymyr-chubai/My_Portfolio/blob/96d9cfe720aba21ac6ec2effe9984d62218f5818/IBM%20Data%20Analyst%20Capstone%20Project/VolodymyrChubai_IBMDataAnalystCapstoneProject.ipynb)
+## 🥇 Project 1: [IBM Data Capstone Project](https://github.com/volodymyr-chubai/Portfolio/blob/96d9cfe720aba21ac6ec2effe9984d62218f5818/IBM%20Data%20Analyst%20Capstone%20Project/VolodymyrChubai_IBMDataAnalystCapstoneProject.ipynb)
 
 ### 📙 Project Overview
 This is an optional Capstone project in partial fulfillment for the IBM Data Analytics certification. This case study follows the six steps of data analysis process: **Ask, Prepare, Process, Analyse, Share** and **Act**.
@@ -30,7 +30,7 @@ Analyzing the data and identify insights and trends that may include the followi
 
 ---
 
-## 🥈 Project 2: [Bellabeat Marketing Analysis](https://github.com/volodymyr-chubai/My_Portfolio/blob/f76baa8e8eb7f32c434fbc70558eb659697a2577/Bellabeat%20Marketing%20Analysis/VolodymyrChubai_BellabeatMarketingAnalysis.ipynb)
+## 🥈 Project 2: [Bellabeat Marketing Analysis](https://github.com/volodymyr-chubai/Portfolio/blob/f76baa8e8eb7f32c434fbc70558eb659697a2577/Bellabeat%20Marketing%20Analysis/VolodymyrChubai_BellabeatMarketingAnalysis.ipynb)
 
 ### 📙 Project Overview
 This is an optional Capstone project in partial fulfillment for the Google Data Analytics certification. This case study follows the six steps of data analysis process: **Ask, Prepare, Process, Analyse, Share** and **Act**.
@@ -47,7 +47,7 @@ Analyze data from FitBit fitness tracker, a non-Bellabeat smart product, to gain
 
 ---
 
-## 🥉 Project 3: [Extraction and Visualization of Stock Data](https://github.com/volodymyr-chubai/My_Portfolio/blob/f76baa8e8eb7f32c434fbc70558eb659697a2577/Extraction%20and%20Visualization%20of%20Stock%20Data/VolodymyrChubai_ExtractionandVisualizationofStockData.ipynb)
+## 🥉 Project 3: [Extraction and Visualization of Stock Data](https://github.com/volodymyr-chubai/Portfolio/blob/f76baa8e8eb7f32c434fbc70558eb659697a2577/Extraction%20and%20Visualization%20of%20Stock%20Data/VolodymyrChubai_ExtractionandVisualizationofStockData.ipynb)
 
 ### 📙 Project Overview
 For this project, I will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data I will visualize it in a dashboard to identify patterns or trends. The stocks I will work with are Tesla, Amazon, AMD, and GameStop.
@@ -57,7 +57,7 @@ For this project, I will assume the role of a Data Scientist / Data Analyst work
 
 ---
 
-## 🥉 Project 4: [US Data Job Market Analysis](https://github.com/volodymyr-chubai/My_Portfolio/blob/f76baa8e8eb7f32c434fbc70558eb659697a2577/US%20Data%20Job%20Market%20Analysis/VolodymyrChubai_USDataJobMarketAnalysis.ipynb)
+## 🥉 Project 4: [US Data Job Market Analysis](https://github.com/volodymyr-chubai/Portfolio/blob/f76baa8e8eb7f32c434fbc70558eb659697a2577/US%20Data%20Job%20Market%20Analysis/VolodymyrChubai_USDataJobMarketAnalysis.ipynb)
 
 ### 📙 Project Overview
 This is an additional project to my Data Analytics portfolio. This data analysis example consists of five steps: **Ask, Prepare, Process, Analyse** and **Share**.
@@ -83,7 +83,7 @@ This project is a demonstration of my data visualization and dashboard building 
 
 ---
 
-## 🥉 Project 6: [Data Analysis and Visualization in Excel](https://github.com/volodymyr-chubai/My_Portfolio/tree/main/Data%20Analysis%20and%20Visualization%20in%20Excel)
+## 🥉 Project 6: [Data Analysis and Visualization in Excel](https://github.com/volodymyr-chubai/Portfolio/tree/main/Data%20Analysis%20and%20Visualization%20in%20Excel)
 
 ### 📙 Project Overview
 This project is a demonstration of my data visualization and dashboard building skills in Microsoft Excel.
