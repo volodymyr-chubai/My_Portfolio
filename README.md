@@ -90,3 +90,6 @@ This project is a demonstration of my data visualization and dashboard building 
 
 <p align="center">
 <img src="/Data Analysis and Visualization in Excel/IMG/excel.png" width=80% height=80%>
+
+---
+<p>&copy; 2022 Volodymyr Chubai</p>
